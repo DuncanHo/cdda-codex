@@ -1,0 +1,17 @@
+.navbar {
+    background-color: #000;
+    color: #fff;
+    justify-content: flex-start;
+    border-radius: 0px;
+}
+.navbar-brand {
+    padding: 10px;
+}  
+.logo {
+    width: 36px;
+    height: 36px;
+}
+.nav-link {
+    padding-left: 15px;
+    padding-right: 15px;
+}
